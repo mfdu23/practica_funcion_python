@@ -27,8 +27,7 @@
 #----------------------------
 
 def suma(a,b):
-    """
-    Esta función suma dos números y devuelve el resultado
+    """Esta función suma dos números y devuelve el resultado
     Args:
         a (int): El primer número a sumar
         b (int): El segundo número a sumar
